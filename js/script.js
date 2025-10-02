@@ -386,11 +386,11 @@ const translations = {
     project1Title: "Gerenciamento Pedagógico",
     project1Desc:
       "Sistema web para visualização e gerenciamento em tempo real da grade de horários e disciplinas da Fatec Jacareí.",
-    project2Title: "Projeto 2",
-    project2Desc: "Sistema ETL de gerenciamento e tratamento de dados com Pandas.",
-    project3Title: "Projeto 3",
+    project2Title: "Amazon RE-Flow",
+    project2Desc: "Sistema web para visualização, análise, limpeza, enriquecimento de dados, e análise de sentimento de reviews da Amazon.",
+    project3Title: "BDLimnologico",
     project3Desc:
-      "Breve descrição do projeto 3",
+      "Sistema web para consulta e visualização de dados e gráficos limnológicos do INPE, organizando e otimizando a busca e utilização dos dados já existentes",
     github: "GitHub",
     deploy: "Ver site",
     // Contact
@@ -453,11 +453,11 @@ const translations = {
     project1Title: "Pedagogical Management",
     project1Desc:
       "Web system for real-time visualization and management of class schedules and subjects at Fatec Jacareí.",
-    project2Title: "Project 2",
-    project2Desc: "ETL system for data management and processing with Pandas.",
-    project3Title: "Project 3",
+    project2Title: "Amazon Re-Flow",
+    project2Desc: "Web-based system for visualizing and analyzing Amazon reviews, with an ETL + NLP pipeline for cleansing, data enrichment, sentiment analysis, and keyword extraction, integrated with interactive dashboards in Google Sheets and Looker Studio.",
+    project3Title: "BDLimnologico 3",
     project3Desc:
-      "Brief description of project 3",
+      "Web system for consulting and viewing INPE's limnological data and graphs, organizing and optimizing the search and use of existing data.",
     github: "GitHub",
     deploy: "View site",
     // Contact
