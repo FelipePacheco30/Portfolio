@@ -392,7 +392,7 @@ const translations = {
     project3Desc:
       "Breve descrição do projeto 3",
     github: "GitHub",
-    deploy: "Deploy",
+    deploy: "Ver site",
     // Contact
     sectionContactTitle: "Vamos Conversar",
     sectionContactSubtitle:
@@ -459,7 +459,7 @@ const translations = {
     project3Desc:
       "Brief description of project 3",
     github: "GitHub",
-    deploy: "Deploy",
+    deploy: "View site",
     // Contact
     sectionContactTitle: "Let's Talk",
     sectionContactSubtitle:

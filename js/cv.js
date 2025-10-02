@@ -16,7 +16,7 @@ const cvTranslations = {
     experienceTitle: "Experiência Profissional",
     exp1Title: "Professor de Inglês",
     exp1Company: "Wizard Jacareí",
-    exp1Date: "Atual",
+    exp1Date: "2025 - Atual",
     exp1Description:
       "Responsável pelo ensino de inglês para diferentes níveis e faixas etárias, desenvolvendo planos de aula personalizados e aplicando metodologias inovadoras. Experiência com aulas presenciais e online, utilizando tecnologia educacional para otimizar o aprendizado. Acompanhamento individual do progresso dos estudantes e aplicação de avaliações formativas e somativas.",
 
@@ -36,12 +36,12 @@ const cvTranslations = {
 
     // Projetos
     projectsTitle: "Projetos em Destaque",
-    proj1Title: "Error-Squad Frontend",
+    proj1Title: "Gerenciamento Pedagógico",
     proj1Description:
       "Site de gerenciamento pedagógico, projeto CRUD, com autenticação JWT, backend em JavaScript, banco de dados em PostgreSQL, e deploy em nuvem. Site com perfis de convidado e administrador, com foco na alteração, personalização e atualização de informações pedagógicas em tempo real com WebSocket.",
-    proj2Title: "Portfólio Pessoal (em desenvolvimento)",
+    proj2Title: "Amazon RE-Flow",
     proj2Description:
-      "Portfólio pessoal moderno em desenvolvimento, apresentando projetos, habilidades e experiência profissional. Utiliza React com TypeScript para uma experiência interativa, com animações suaves, design responsivo e otimização de performance. Interface intuitiva que demonstra capacidades técnicas e criativas em constante evolução.",
+      "Dashboard de análise de reviews da Amazon, pipeline ETL + NLP para  extração, limpeza, enriquecimento e exportação de dados. Análise de sentimento (VADER) e extração de keywords por review, backend em Python (Flask) com SQLAlchemy/SQLite local, frontend em HTML/JS (Bootstrap + Chart.js). Gera CSVs prontos para Google Sheets /Looker Studio. Foco em automação, reprodutibilidade e visualizações interativas. ",
 
     // Sidebar – títulos
     skillsTitle: "Habilidades Técnicas",
@@ -94,7 +94,7 @@ const cvTranslations = {
     experienceTitle: "Professional Experience",
     exp1Title: "English Teacher",
     exp1Company: "Wizard Jacareí",
-    exp1Date: "Present",
+    exp1Date: "2025 - Present",
     exp1Description:
       "Responsible for teaching English to different levels and age groups, developing personalized lesson plans and applying innovative methodologies. Experience with both in-person and online classes, using educational technology to optimize learning. Individual monitoring of student progress and application of formative and summative assessments.",
 
@@ -114,12 +114,12 @@ const cvTranslations = {
 
     // Projects
     projectsTitle: "Highlighted Projects",
-    proj1Title: "Error-Squad Frontend",
+    proj1Title: "Pedagogical Management",
     proj1Description:
       "Pedagogical management website, CRUD project, with JWT authentication, backend in JavaScript, PostgreSQL database, and cloud deployment. Site includes guest and admin profiles, focused on real-time modification, customization, and updating of pedagogical information via WebSocket.",
-    proj2Title: "Personal Portfolio (in development)",
+    proj2Title: "Amazon RE-Flow",
     proj2Description:
-      "Modern personal portfolio under development, showcasing projects, skills, and professional experience. Built with React and TypeScript for an interactive experience, smooth animations, responsive design, and performance optimization. Intuitive interface that demonstrates evolving technical and creative skills.",
+      "Amazon review analysis dashboard with an ETL + NLP pipeline for data extraction, cleansing, enrichment, and export. Sentiment analysis (VADER) and keyword extraction by review. Python (Flask) backend with local SQLAlchemy/SQLite, HTML/JS frontend (Bootstrap + Chart.js). Generates CSV files ready for Google Sheets/Looker Studio. Focused on automation, reproducibility, and interactive visualizations.",
 
     // Sidebar – titles
     skillsTitle: "Technical Skills",
