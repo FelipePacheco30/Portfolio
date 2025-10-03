@@ -454,7 +454,7 @@ const translations = {
     project1Desc:
       "Web system for real-time visualization and management of class schedules and subjects at Fatec Jacareí.",
     project2Title: "Amazon Re-Flow",
-    project2Desc: "Web-based system for visualizing and analyzing Amazon reviews, with an ETL + NLP pipeline for cleansing, data enrichment, sentiment analysis, and keyword extraction, integrated with interactive dashboards in Google Sheets and Looker Studio.",
+    project2Desc: "Web-based system for visualization, analysis, cleaning, data enrichment, and sentiment analysis of Amazon reviews.",
     project3Title: "BDLimnologico 3",
     project3Desc:
       "Web system for consulting and viewing INPE's limnological data and graphs, organizing and optimizing the search and use of existing data.",

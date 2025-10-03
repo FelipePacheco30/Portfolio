@@ -10,7 +10,7 @@ const cvTranslations = {
     introTitle: "Currículo Profissional",
     introSkills: "HTML • CSS • React • Python • TypeScript",
     introDescription:
-      "Desenvolvedor Full-Stack iniciante apaixonado por criar soluções digitais e interfaces intuitivas. Atualmente professor de inglês na Wizard Jacareí, combinando habilidades pedagógicas com conhecimentos em desenvolvimento web. Em constante aprendizado com React, Python e TypeScript, buscando crescer na área de tecnologia. Procuro oportunidades para aplicar minha experiência em educação e desenvolver minhas habilidades técnicas em projetos desafiadores.",
+      "Desenvolvedor Full-Stack com foco em soluções robustas e escalaveis. Atualmente professor de inglês na Wizard Jacareí, combinando habilidades pedagógicas com conhecimentos em desenvolvimento de software. Em constante aprendizado com React, Python e TypeScript, buscando crescer na área de tecnologia. Procuro oportunidades para aplicar minha experiência e desenvolver minhas habilidades técnicas em projetos desafiadores.",
 
     // Experiência
     experienceTitle: "Experiência Profissional",
@@ -88,7 +88,7 @@ const cvTranslations = {
     introTitle: "Professional Resume",
     introSkills: "HTML • CSS • React • Python • TypeScript",
     introDescription:
-      "Junior Full-Stack developer passionate about creating digital solutions and intuitive interfaces. Currently an English teacher at Wizard Jacareí, combining pedagogical skills with web development knowledge. Constantly learning React, Python, and TypeScript, aiming to grow in the tech field. Looking for opportunities to apply my teaching experience and enhance my technical skills in challenging projects.",
+      "Full-stack developer focused on robust and scalable solutions. Currently an English teacher at Wizard Jacareí, combining teaching skills with software development expertise. Constantly learning React, Python, and TypeScript, I strive to grow in the technology field. I seek opportunities to apply my experience and develop my technical skills in challenging projects.",
 
     // Experience
     experienceTitle: "Professional Experience",
